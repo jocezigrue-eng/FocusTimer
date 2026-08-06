@@ -4,8 +4,8 @@ A simple focus timer GUI application built with Python and PySide6.
 
 ## Features
 
-- ⏱ Custom focus timer
-- 🟢 Multiple time presets (WIP)
+- ⏱ Custom focus timer (WIP)
+- 🟢 Multiple time presets
 - 🔴 Surrender button
 - 🎨 Custom UI styling (WIP)
 
